@@ -1,3 +1,4 @@
-Resolved the bug of memory leak for a node.js package:
+## Resolved the bug of memory leak for a node.js package:
 
-https://github.com/bestlong/node-red-contrib-mssql-plus/issues/64
+npm webiste: https://www.npmjs.com/package/node-red-contrib-mssql-plus
+github issue: https://github.com/bestlong/node-red-contrib-mssql-plus/issues/64
